@@ -15,12 +15,12 @@ function myFunction() {
       artist: "Frank Sinatra",
       title: "My way",
       release_year: 1969,
+      id: 101,
       formats: {
         1: "CD",
         2: "8T",
         3: "LP",
       },
-      gold: true,
     },
   };
   return myMusic;
